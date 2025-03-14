@@ -22,7 +22,7 @@ The **AI-Powered Multimodal Media Analyzer** is a **Streamlit-based web applicat
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone  https://github.com/Rohitha2803/videooimageanalyzer.git
 cd your-repo
 ```
 
