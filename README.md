@@ -27,12 +27,12 @@ cd videooimageanalyzer
 ```
 
 
-3. **Install Requirements**
+2. **Install Requirements**
 ```bash
 pip install -r requirements.txt
 ```
 
-5. **Run the Application**
+3. **Run the Application**
 ```bash
 streamlit run app.py
 ```
