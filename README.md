@@ -9,11 +9,7 @@ The **AI-Powered Multimodal Media Analyzer** is a **Streamlit-based web applicat
 - **Web Context Integration**: Leverages **DuckDuckGo Search** for **richer, real-world context**.
 - **Interactive User Queries**: Allows users to **ask questions** related to uploaded media and receive **actionable insights**.
 
-## Features
-✅ **Upload & Analyze Media**: Supports video (`.mp4`, `.mov`, `.avi`) and image (`.jpg`, `.jpeg`, `.png`) uploads.  
-✅ **AI-Powered Insights**: Uses **Gemini AI** to analyze and summarize content.  
-✅ **Web Context Integration**: Utilizes **DuckDuckGo Search** for additional insights.  
-✅ **Interactive User Queries**: Users can ask questions related to uploaded media.  
+## Features 
 ✅ **Real-Time Processing**: Quickly processes and returns insights for uploaded content.  
 ✅ **User-Friendly Interface**: Simple and intuitive design with **Streamlit UI**.  
 ✅ **Scalable & Extensible**: Easily adaptable for additional AI models and functionalities.  
@@ -41,6 +37,4 @@ streamlit run app.py
 1. **Upload videos or images** via the Streamlit interface.  
 2. **Enter a question or request** for AI analysis.  
 3. Click **Analyze Media** to get AI-generated insights.  
-
-
 
